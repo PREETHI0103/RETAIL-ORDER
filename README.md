@@ -21,6 +21,7 @@ This project focuses on analyzing a retail orders dataset from Kaggle using Pyth
 - Used Pandas to clean the data:
   - Handled missing values by replacing them with `0`.
   - Standardized column names for better readability.
+  - Removed trailing spaces
 - Split the dataset into two tables based on relevant grouping conditions.
 
 ### 2. **Database Setup & Management**
