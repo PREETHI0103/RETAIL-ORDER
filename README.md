@@ -28,7 +28,7 @@ This project focuses on analyzing a retail orders dataset from Kaggle using Pyth
 ### 2. **Database Setup & Management**
 - Installed MySQL and PyMySQL in Google Colab.
 - Established a connection between MySQL and TiDB Cloud using **Authtoken** authentication.
-- Created a database titled **"Retail Orders"** in TiDB Cloud.
+- Created a database titled **"RETAIL_ORDERS"** in TiDB Cloud.
 - Used SQLAlchemy to move the structured data into TiDB.
 - Set primary and foreign keys to ensure data integrity and establish relationships between tables.
 
